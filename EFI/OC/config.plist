@@ -2323,7 +2323,7 @@
 				JQ==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 -igfxblt agdpmod=vit9696 nvme_ms=0 brcmfx-country=#a gfxrst=4 nvfb=1 nvaccel=1 nvfbheads=4 -nvkmsnosmooth amfi_get_out_of_my_way=0x1 amfi=0x80 ipc_control_port_options=0</string>
+				<string>-v keepsyms=1 -igfxblt agdpmod=vit9696 nvme_ms=0 brcmfx-country=#a gfxrst=4 nvfb=1 nvaccel=1 nvfbheads=4 -nvkmsnosmooth amfi_get_out_of_my_way=0x1 amfi=0x80 ipc_control_port_options=0 nvrmsettle=10000</string>
 				<key>csr-active-config</key>
 				<data>
 				QwoAAA==
