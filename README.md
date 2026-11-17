@@ -11,3 +11,8 @@
 - HDMI: Not tested.
 - Microphone: Only an external microphone is supported.
 - Bluetooth, Wi-Fi, and the dedicated GPU: Fully supported.
+
+---
+
+**Remaining Issue:**
+- There is a ~3-minute black screen during boot; after waiting for about 3 minutes, the display automatically turns on.
